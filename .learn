@@ -1,0 +1,13 @@
+languages:
+  - JavaScript
+tags:
+  - js
+  - javascript
+  - conditional
+  - expressions
+  - if
+  - else
+resources: 0
+type:
+  - mini-lab
+  - todo
