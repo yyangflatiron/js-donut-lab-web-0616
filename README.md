@@ -1,10 +1,3 @@
----
-languages: JavaScript
-tags: js, javascript, conditional, expressions, if, else
-resource: 0
-type: mini-lab, todo
----
-
 # Donut App (phase 1)
 
 Build a donut counting app to make sure there are enough donuts for your guests. Never again will you endure sleepless nights worrying if you have enough donuts on hand for your hungry friends.
