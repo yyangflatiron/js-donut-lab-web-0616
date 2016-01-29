@@ -11,4 +11,4 @@ Build a donut counting app to make sure there are enough donuts for your guests.
 5. Open index.html in a browser (don't forget to open JS console in dev tools so you can see any potential error messages.)
 6. Follow the code comments in **js/donut-counter.js** to write the code neccesary to build a functioning dounter counter app.
 
-<a href='https://learn.co/lessons/js-donut-lab' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/js-donut-lab' title='Donut App (phase 1)'>Donut App (phase 1)</a> on Learn.co and start learning to code for free.</p>
